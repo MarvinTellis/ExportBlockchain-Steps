@@ -1,9 +1,6 @@
 # ExportBlockchain-Steps
 Steps for setting up Export Blockchain in Bluemix tesing environment  
 
-# ExportBlockchain-Steps
-Steps for setting up Export Blockchain in Bluemix tesing environment  
-
 ## Step 1
 Deploy a new business network using the test-export-v1(2).bna file provided in the repository
 
@@ -11,20 +8,20 @@ Deploy a new business network using the test-export-v1(2).bna file provided in t
 Create partipants such as Exporter,Bank,ExportOfficer and DGFTofficer using the admin network card
 
 ### Exporter Participant
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/Create%20Exporter.png "Exporter participant")
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/Exporter%20created.png "Exporter participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/Create%20Exporter%20.png "Exporter participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/Exporter%20created%20.png "Exporter participant")
 
 ### Bank Participant
 ![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/create%20Bank%20entity.png "Bank participant")
 ![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/Bank%20created.png "Bank participant")
 
 ### ExportOfficer participant
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/create%20Export%20Officer.png "ExportOfficer participant")
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/export%20officer%20created.png "ExportOfficer participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/create%20Export%20Officer%20.png "ExportOfficer participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/export%20officer%20created%20.png "ExportOfficer participant")
 
 ### DGFTofficer participant 
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/create%20dgft.png "DGFT participant")
-![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/dfgt%20officer%20created.png "DGFT participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/create%20dgft%20.png "DGFT participant")
+![alt text](https://github.com/MarvinTellis/ExportBlockchain-Steps/blob/master/dfgt%20officer%20created%20.png "DGFT participant")
 
 ## Step 3
 Issue identities to all participants 
