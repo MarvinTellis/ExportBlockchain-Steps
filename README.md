@@ -1,5 +1,6 @@
 # ExportBlockchain-Steps
 Steps for setting up Export Blockchain in Bluemix tesing environment  
+[Click on this link to use bluemix](https://composer-playground.mybluemix.net/login)
 
 ## Step 1
 Deploy a new business network using the test-export-v1(2).bna file provided in the repository
